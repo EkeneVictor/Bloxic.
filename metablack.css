@@ -1,0 +1,235 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    position: relative;
+    left: 100px;
+
+}
+
+ul {
+    position: absolute;
+    top: 10px;
+    left: 700px;
+}
+
+ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+}
+
+.prdcthead{
+    width: 1150px;
+    height: 250px;
+    border: 0px solid ;
+    position: absolute;
+    left: 100px;
+    background-color: rgb(245, 244, 244);
+}
+
+.t011{
+    position: relative;
+    top: 10px;
+    left: 30px;
+    color: red;
+}
+
+.mens{
+    position: relative;
+    top: 20px;
+    left: 30px;
+    color: black; 
+    font-size: 30px;
+}
+
+.deals{
+    position: relative;
+    top: 35px;
+    left: 30px;
+    color: black; 
+    font-weight: bolder;
+}
+
+#flat2{
+    position: relative;
+    left: 50px;
+    top: -20px;
+    color: red; 
+    font-weight: bolder; 
+}
+
+.shopnow{
+    position: relative;
+    top: 50px;
+    left: 30px;
+    color: black; 
+}
+
+.shopnow :hover{
+    cursor: pointer;
+    border: 0px solid grey;
+    width: 120px;
+    height: auto;
+    border-radius: 4px;
+    background-color: rgb(182, 182, 182);
+}
+
+.chairimg{
+    border: 0px solid;
+    width: 400px;
+    height: 250px;
+    background-image: url(./bloxicchairrrr.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 700px;
+    top: -113px;
+}
+
+.navbar2{
+    position: absolute;
+    top: 350px;
+    left: 100px;
+}
+
+
+.choice{
+    border: 0px solid;
+    width: 250px;
+    height: 35px;
+}
+
+#choich1{
+    color: black; 
+    font-weight: bolder;
+    font-size: 22px;
+    position: relative;
+    left: 15px;
+}
+
+#choich2{
+    position: relative;
+    left: 105px;
+    top: -25px;
+    color: black; 
+    font-size: 22px;
+}
+
+.redbar{
+    border: 2.5px solid red;
+    width: 2.5px;
+    height: 30px;
+    position: absolute;
+}
+
+.nav2 p {
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+    position: relative;
+    left: 650px;
+    top: -25px;
+    color: grey;
+}
+
+.nav2  :hover{
+    cursor: pointer;
+}
+
+#drkhrse{
+    color: black; 
+    font-weight: bolder;
+    text-decoration: underline red;
+}
+
+.imgsprod{
+    border: 0px solid;
+    width: 1150px;
+    height: 300px;
+    position: absolute;
+    top: 400px;
+    left: 100px;
+}
+
+.prod1{
+    border: 0px solid;
+    height: 250px;
+    width: 290px;
+    background-image: url(./table11.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.prod2{
+    border: 0px solid;
+    height: 250px;
+    width: 290px;
+    position: relative;
+    top: -250px;
+    left: 287.5px;
+    background-image: url(./table11.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.prod3{
+    border: 0px solid;
+    height: 250px;
+    width: 290px;
+    position: relative;
+    top: -500px;
+    left: 575px;
+    background-image: url(./table11.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.prod4{
+    border: 0px solid;
+    height: 250px;
+    width: 290px;
+    position: relative;
+    top: -750px;
+    left: 862.5px;
+    background-image: url(./table11.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.prod1 p{
+    position: relative;
+    top: 220px;
+}
+
+.prod2 p{
+    position: relative;
+    top: 220px;
+}
+
+.prod3 p{
+    position: relative;
+    top: 220px;
+}
+
+.prod4 p{
+    position: relative;
+    top: 220px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+

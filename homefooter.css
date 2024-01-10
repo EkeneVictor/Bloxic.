@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    position: relative;
+    left: 100px;
+
+}
+
+ul {
+    position: absolute;
+    top: 10px;
+    left: 700px;
+}
+
+ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+}
+
+#icon1{
+    color: #000814;
+    position: absolute;
+    left: 50px;
+    top: 12px;
+    /* font-size: xx-large; */
+    font-weight: bold;
+    
+}
+#icon2{
+    font-weight: bold;
+}
+.cont{
+    display: flex;
+    padding-top: 20px;
+}
+
+#ide{
+    display: inline;
+    height: 200px;
+    width: 213px;
+}
+
+.text{
+    width: 1280px;
+    height: auto;
+    display: flex;
+    border: 2px hidden;
+    padding-top: 10px;
+    background-color: #e5e5e5;
+    padding-left: 0px;
+}
+.div{
+    width: 300px;
+    height: auto;
+    border-right: 3px hidden;
+    padding: 10px;
+}
+.add{
+    padding-top: 30px;
+}
+
+footer.foot{
+    display: flex;
+    background-color: #ced4da;
+    display: flex;
+    border: 1px solid;
+    width: 1280px;
+    border-color: #ced4da;
+    position: relative;
+    left: 100px;
+}
+small{
+    color: red;
+    font-size: large;
+}
+.copyr{
+    padding-left: 20px;
+}
+#txt{
+    position: absolute;
+    left: 600px;
+    bottom: 100px;
+    width: 100px;
+    height: 30px;
+    border-radius: 23px;
+    border-color: #fb5607;
+    
+    
+    
+}
+.card{
+    position: absolute;
+    left: 1000px;
+}
+.card img{
+    width: 40px;
+    height: 20px;
+    padding: 15px 2px
+    
+}
+
+.bdyfoot{
+    position: relative;
+    left: 100px;
+}
+
+#ire{
+    width: auto;
+    height: auto;
+}
+
+.all{
+    position: relative;
+    top: 100px;
+}

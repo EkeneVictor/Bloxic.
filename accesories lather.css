@@ -1,0 +1,246 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+}
+.navbar {
+    position: relative;
+    left: 100px;
+
+}
+
+ul {
+    position: absolute;
+    top: 10px;
+    left: 700px;
+}
+
+ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+}
+
+        .shop2{
+      background-color: #fff;
+      height: 800px;
+    }
+    .ch1{
+      padding: 90px 90px ;
+      /* height: 100px; */
+      /* width: 100px; */
+       /* background-color: red;  */
+       height: 590px;
+    }
+    .cream{
+      height: 460px;
+      width: 460px;
+
+    }
+    .Group{
+      /* background-color: red; */
+      height: 70px;
+      width: 70px;
+    }
+    .ca{
+      /* background-color: blue; */
+      height: 70px;
+      width: 70px;
+    }
+    .pro4-{
+      /* background-color: green; */
+      height: 70px;
+      width: 70px;
+    }
+    .square{
+      border: rgb(201, 200, 200) 2px solid;
+      height: 100px;
+      width: 100px;
+      position: relative;
+      left: 475px;
+      top: -465px;
+    }
+    .two{
+      position: relative;
+      top:-415px;
+    }
+    .three{
+      position: relative;
+      top:-405px;
+    }
+    .four{
+      position: relative;
+      top:-357px;
+    }
+    .infoshop2{
+      position: absolute;
+      top: 100px;
+      left: 750px;
+    }
+   s{ color: gray;}
+   .perc{
+    border: 2px solid #000;
+    color: #000;
+    padding: 4px 10px;
+    width: 30px;
+   }
+   .model{ font-family: Arial, Helvetica, sans-serif;
+    padding:10px;
+    background-color: rgb(201, 200, 200);
+    border: 0px;
+  }
+  .cart{
+    padding: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    background: #000;
+    border: #000;
+    text-decoration: none;
+  }
+  .prod{
+     padding: 15px; 
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    background: #000;
+    border: #000;
+  }
+    .prod1{
+    padding: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000;
+    background: #fff;
+    border: 1px solid gray;
+    
+  }
+    .proall{
+      position: relative;
+      top: -650px;
+      left: 90px;
+    }
+  .mod{
+    padding: 10px 15px 10px 15px;
+    background-color: rgb(201, 200, 200);
+  }
+
+  .work{
+    position: relative;
+    top: 700px;
+  }
+
+  #redd{
+    color: red;
+  }
+
+  
+#icon1{
+    color: #000814;
+    position: absolute;
+    left: 50px;
+    top: 12px;
+    /* font-size: xx-large; */
+    font-weight: bold;
+    
+}
+#icon2{
+    font-weight: bold;
+}
+.cont{
+    display: flex;
+    padding-top: 20px;
+}
+
+#ide{
+    display: inline;
+    height: 200px;
+    width: 213px;
+}
+
+.text{
+    width: 1280px;
+    height: auto;
+    display: flex;
+    border: 2px hidden;
+    padding-top: 10px;
+    background-color: #e5e5e5;
+    padding-left: 0px;
+}
+.div{
+    width: 300px;
+    height: auto;
+    border-right: 3px hidden;
+    padding: 10px;
+}
+.add{
+    padding-top: 30px;
+}
+
+footer.foot{
+    display: flex;
+    background-color: #ced4da;
+    display: flex;
+    border: 1px solid;
+    width: 1280px;
+    border-color: #ced4da;
+    position: relative;
+    left: 100px;
+}
+small{
+    color: red;
+    font-size: large;
+}
+.copyr{
+    padding-left: 20px;
+}
+#txt{
+    position: absolute;
+    left: 600px;
+    bottom: 100px;
+    width: 100px;
+    height: 30px;
+    border-radius: 23px;
+    border-color: #fb5607;
+    
+    
+    
+}
+.card{
+    position: absolute;
+    left: 1000px;
+}
+.card img{
+    width: 40px;
+    height: 20px;
+    padding: 15px 2px
+    
+}
+
+.bdyfoot{
+    position: relative;
+    left: 100px;
+}
+
+#ire{
+    width: auto;
+    height: auto;
+}
+
+.all{
+    position: relative;
+    top: 100px;
+}
+  
